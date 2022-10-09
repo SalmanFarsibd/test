@@ -470,7 +470,8 @@ nav{
     text-decoration: none;
 }
 .profile-nav{
-    margin-top: 210px;
+    margin-top: 215px;
+    margin-right: 10px;
 }
 ul {
     display: flex;
